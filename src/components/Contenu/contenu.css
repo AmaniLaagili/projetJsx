@@ -1,0 +1,22 @@
+.titlered {
+    text-align: center;
+    color: red;
+}
+img {
+    width: 20%;
+    height: 200%;
+}
+.imageA {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.imageB {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#video {
+    margin-bottom: 20px;
+}
